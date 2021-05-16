@@ -1,0 +1,19 @@
+<div class="banner">
+    <img class="anh_banner" src="../assets/images/banner8.jpg" alt="">
+</div>
+<div class="all_product">
+    <div class="container mt-5">
+        <div>
+            <p class="can_le">All Products</p>
+        </div>
+        <div class="row">
+            <div class="col-4 mb-5" *ngFor="let item of listPro">
+                <img class="kich_thuoc_san_pham_moi img-fluid" src="../assets/images/watch_product/{{item.image}}"
+                    alt="">
+                <div class="button_each_product mt-3 mb-5">
+                    <a  routerLink="/detail-product/{{item.id}}"><p>View detail</p></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

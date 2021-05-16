@@ -1,0 +1,123 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Doan Xuan Son",
+      "email": "xuansondoan99@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Cong Phuong",
+      "email": "congphuong@gmail.com",
+      "password": "456"
+    },
+    {
+      "name": "xuan son",
+      "email": "abc@gmail.com",
+      "password": "1321313",
+      "id": 3
+    },
+    {
+      "name": "fdsaf",
+      "email": "fdsa@gmail.com",
+      "password": "43fgds",
+      "id": 4
+    },
+    {
+      "name": "fdsafsd",
+      "email": "fdsa@gmail.com",
+      "password": "54243fsdf",
+      "id": 5
+    },
+    {
+      "name": "nguyen van toan",
+      "email": "xuansondoan99@gmail.com",
+      "password": "123123131",
+      "id": 6
+    },
+    {
+      "name": "le van xuan",
+      "email": "vanxuan@gmail.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "name": "le tan tai",
+      "email": "hello@gmail.com",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "name": "abcxyz",
+      "email": "xyz@gmail.com",
+      "password": "123",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "type": "DETROIT - 40MM",
+      "name": "M-53",
+      "price": "100.000",
+      "image": "img9.jpg"
+    },
+    {
+      "id": 2,
+      "type": "DETROIT - 40MM",
+      "name": "US-12",
+      "price": "200.000",
+      "image": "img3.jpg"
+    },
+    {
+      "id": 3,
+      "type": "DETROIT - 40MM",
+      "name": "6 MILE",
+      "price": "150.000",
+      "image": "img4.jpg"
+    },
+    {
+      "id": 4,
+      "type": "KASHMIR - 40MM",
+      "name": "SWANK",
+      "price": "300.000",
+      "image": "img11.jpg"
+    },
+    {
+      "id": 5,
+      "type": "JACKSON - 40MM",
+      "name": "EARTHQUAKE",
+      "price": "50.000",
+      "image": "img5.jpg"
+    },
+    {
+      "id": 6,
+      "type": "JACKSON - 40MM",
+      "name": "THUNDER",
+      "price": "100.000",
+      "image": "img10.jpg"
+    },
+    {
+      "id": 7,
+      "type": "JACKSON - 40MM",
+      "name": "HERBERT",
+      "price": "350.000",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 8,
+      "type": "JACKSON - 40MM",
+      "name": "BLIZZARD",
+      "price": "5.000.000",
+      "image": "img6.jpg"
+    },
+    {
+      "id": 9,
+      "type": "WEIMAR - 40MM",
+      "name": "LAVA",
+      "price": "100.000",
+      "image": "img7.jpg"
+    }
+  ]
+}

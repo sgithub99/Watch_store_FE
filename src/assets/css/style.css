@@ -1,0 +1,241 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+@font-face {
+	font-family: 'Jost';
+	src: url('../font/Jost-VariableFont_wght.ttf');
+}
+.the_dau_dong{
+	background: #111 ;
+	widows: 100%;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	color: #fff;
+	font-size: 10px;
+}
+.container a{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon_padding{
+	padding: 0 10px;
+	font-size: 16px
+}
+
+.icon_padding img{
+	size: 16px;
+}
+
+.can_giua_trong{
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+
+.kich_co_chu li a{
+	font-size: 20px;
+}
+
+.kieu_chu{
+	font-family: 'Jost';
+	font-weight: 900;
+	color: black;
+}
+
+.hover_menu:hover{
+	border-bottom: 3px solid #000;
+}
+
+.hover_menu{
+	box-sizing: border-box;
+}
+
+.move_banner{
+	position: relative;
+	box-sizing: border-box;
+}
+
+.banner{
+	position: absolute;
+	right: 0;
+	left: 0;
+	top: 0;
+	margin-top: 60px;
+}
+
+.anh_banner{
+	width: 100%;
+	height: 600px;
+}
+
+.kich_thuoc_anh{
+	width: 268px;
+	height: 338px;
+}
+
+.slider{
+	display: flex;
+	margin-top: 452px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.chinh_slider{
+	background: #000;
+	height: 440px;
+}
+
+.anh_slider{
+	position: relative;
+}
+
+.mui_ten_phai{
+	position: absolute;
+	margin-right: -130px;
+}
+
+.mui_ten_trai{
+	position: absolute;
+	margin-left: -130px;
+}
+
+.kich_thuoc_san_pham_moi{
+	width: 340px;
+	height: 420px !important;
+}
+
+.can_le{
+	text-align: center;
+	font-family: 'Jost';
+	font-size: 48px;
+}
+
+.button_all_product{
+	border: 2px solid #000;
+	background-color: #fff;
+	width: 16%;
+	height: 40px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Jost';
+	font-size: 15px;
+	position: relative;
+}
+
+.button_all_product:hover{
+	background-color: #000;
+	color: #fff;
+	cursor: pointer;
+}
+.button_all_product p{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.button_each_product{
+	border: 2px solid #000;
+	background-color: #fff;
+	width: 150px;
+	height: 40px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Jost';
+	font-size: 15px;
+	position: relative;
+
+}
+
+.button_each_product p {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.button_each_product:hover{
+	background-color: #000;
+	color: #fff;
+	cursor: pointer;
+}
+
+/* .button_each_product a:hover{
+	color: #fff;
+	cursor: pointer;
+} */
+
+.all_product{
+	margin-top: 600px !important;
+}
+.icon{
+	font-size: 13px;
+}
+
+.khung_footer{
+	border-top: 1px solid #eeeeee;
+}
+
+.row_policy{
+	margin: 0 auto;
+	font-family: 'Jost';
+	font-size: 13px;
+	font-weight: bolder;
+}
+
+.banner_product{
+	width: 100%;
+	height: 460px;
+}
+
+
+.nut_bam_slider{
+	margin-top: 20px;
+}
+
+.buy_now{
+	width: 270px;
+	height: 70px;
+	background: black;
+	margin-right: 20px;
+	color: #fff;
+	line-height: 70px;
+}
+
+.buy_now:hover{
+	background: #3bb100;
+	color: #fff;
+}
+
+.add_to_card{
+	width: 270px;
+	height: 70px;
+	background: #fff;
+	border: 1px solid #000;
+	margin-right: 10px;
+	color: #000;
+	line-height: 70px;
+}
+
+.add_to_card:hover{
+	background: #000;
+	border: 1px solid #fff;
+	margin-right: 10px;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
